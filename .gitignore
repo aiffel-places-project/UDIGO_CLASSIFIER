@@ -140,3 +140,5 @@ cython_debug/
 # directory
 data/
 models/
+.idea/
+image_crawler/credentials.py
