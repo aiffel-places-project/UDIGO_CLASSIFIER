@@ -142,3 +142,5 @@ data/
 models/
 .idea/
 image_crawler/credentials.py
+
+.DS_Store
