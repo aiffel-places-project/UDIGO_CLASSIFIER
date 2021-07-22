@@ -1,0 +1,2 @@
+python udigo_packer.py
+bentoml serve UdigoPlaceService:latest
